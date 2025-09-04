@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Đây là README được chỉnh sửa từ nhánh main.
 S(https://github.com/firstcontributions/open-source-badges)
+=======
+Đây là README được chỉnh sửa từ nhánh conflict-demo.
+(https://github.com/firstcontributions/open-source-badges)
+>>>>>>> conflict-demo
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
